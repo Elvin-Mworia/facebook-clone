@@ -1,0 +1,8 @@
+.storyreel {
+    display: flex;
+    margin-top: 10px;
+}
+
+.storyreel__story {
+    margin-right: 10px;
+}
